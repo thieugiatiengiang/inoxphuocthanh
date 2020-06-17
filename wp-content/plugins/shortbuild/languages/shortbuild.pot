@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shortbuild\n"
+"POT-Creation-Date: 2019-03-02 16:41+0530\n"
+"PO-Revision-Date: 2019-03-02 16:41+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins"
+"\\shortbuild\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins"
+"\\shortbuild\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:38
+msgid "Slider settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:73
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:269
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:990
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1038
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1086
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1428
+msgid "Image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:88
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1443
+msgid "Enable slider image overlay"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:101
+msgid "Slider image overlay color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:109
+msgid "We are Best in Premium Consulting Services"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:113
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:317
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:350
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:383
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:522
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:571
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:641
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:712
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:952
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1008
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1056
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1103
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1468
+msgid "Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:124
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:328
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:361
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:394
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:534
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:582
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:652
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:723
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:964
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1022
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1070
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1117
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1479
+msgid "Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:132
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:590
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:660
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:731
+msgid "Read more"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:136
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:594
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:664
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:735
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1491
+msgid "Button Text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:147
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:605
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:676
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:746
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1502
+msgid "Button Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:159
+msgid "Open link in new mtb"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:237
+msgid "Top Contact settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:284
+msgid "Enable callout image overlay"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:296
+msgid "Top Contact overlay color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:306
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:339
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:372
+msgid "Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:313
+msgid "We are Creators"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:346
+msgid "Creative Ideas "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:379
+msgid "Budget Friendly"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:495
+msgid "Service settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:518
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/sections/homepage.php:170
+msgid "What We Do"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:530
+msgid "Why us"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:542
+msgid "Service"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:546
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:975
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1332
+msgid "Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:558
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:628
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:699
+msgid "Service Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:567
+msgid "Strategic Planning"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:601
+msgid "#"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:617
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:688
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:758
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1514
+msgid "Open link in new tab/window"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:637
+msgid "Trades & Stocks"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:708
+msgid "Bonds & Commodities"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:925
+msgid "Project/Portfolio settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:948
+msgid "Our Projects"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:960
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/sections/homepage.php:287
+msgid "Recent Projects"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:971
+msgid "PROJECT"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1002
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/sections/homepage.php:292
+msgid "Financial Project"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1050
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/sections/homepage.php:296
+msgid "Investment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1097
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/sections/homepage.php:301
+msgid "Invoicing"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1277
+msgid "News settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1304
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/sections/homepage.php:466
+msgid "News And Updates"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1308
+msgid "News section title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1316
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/sections/homepage.php:468
+msgid "Recent Blog Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1320
+msgid "News section description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1328
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/sections/homepage.php:464
+msgid "NEWS"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1397
+msgid "Callout settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1456
+msgid "Callout image overlay color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1464
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/sections/homepage.php:406
+msgid "Need Consultation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/features/customizer.php:1487
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/sections/homepage.php:408
+msgid "Get appointment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/sections/homepage.php:212
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/sections/homepage.php:235
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/sections/homepage.php:258
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\shortbuild/inc/short/sections/homepage.php:501
+msgid "Read More"
+msgstr ""
