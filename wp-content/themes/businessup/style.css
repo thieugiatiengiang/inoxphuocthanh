@@ -3858,3 +3858,6 @@ ul.product-categories li a:hover span {
 .elementor-icon i.fas, i.far{
 	color: #ffa726;
 }
+.woocommerce-loop-product__link .price{
+	width: 100% !important;
+}
